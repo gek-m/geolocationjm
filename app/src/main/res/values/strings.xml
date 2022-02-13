@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">GeolocationJM</string>
     <string name="title_activity_maps">MapsActivity</string>
+    <string name="go_to_markers">GO TO MARKERS</string>
+    <string name="markers_list_title">Markers on the map</string>
+    <string name="position">Position:</string>
+    <string name="hello_from_markers_details">Hello from Markers Details</string>
+    <string name="button_save_title">SAVE</string>
+    <string name="button_cancel_title">CANCEL</string>
 </resources>
